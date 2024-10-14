@@ -1,0 +1,67 @@
+# Python
+__pycache__/
+*.py[cod]
+*.so
+*.egg
+*.egg-info/
+dist/
+build/
+*.log
+
+# Virtualenv
+venv/
+env/
+ENV/
+.venv/
+.pyenv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*.ipynb_checkpoints/
+
+# PyCharm
+.idea/
+*.iml
+*.iws
+*.ipr
+
+# Seaborn and Matplotlib
+.matplotlib/
+seaborn-data/
+
+# Pandas
+pandas_datareader/
+
+# Cache files
+*.cache
+*.pkl
+*.h5
+
+# Data files (optional, if you don't want to track dataset files)
+*.csv
+*.xlsx
+*.json
+*.parquet
+*.feather
+*.hdf5
+*.db
+
+# Git
+.git/
+.gitignore
+
+# Logs and debug files
+*.log
+*.out
+*.err
+.DS_Store
+*.bak
+*.swp
+
+# OS generated files
+Thumbs.db
+Desktop.ini
+
+# Others
+*.zip
+*.tar.gz
